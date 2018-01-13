@@ -1,0 +1,22 @@
+{
+  "name": "inbox-tut",
+  "version": "1.0.0",
+  "description": "eth tut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-canaan/inbox-tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-canaan/inbox-tut/issues"
+  },
+  "homepage": "https://github.com/gabriel-canaan/inbox-tut#readme",
+  "dependencies": {
+    "solc": "^0.4.19"
+  }
+}
