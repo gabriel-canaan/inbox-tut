@@ -12,3 +12,4 @@ contract Inbox {
         message = newMessage;
     }
 }
+/*0x8CA19eCE814Be86787c84ff603Ed9053546F2220*/
